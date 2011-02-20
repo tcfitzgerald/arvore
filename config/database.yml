@@ -24,8 +24,8 @@ test:
   reconnect: false
   database: arvore_test
   pool: 5
-  username: root
-  password:
+  username: rails_db
+  password: $#lia38!
   socket: /var/lib/mysql/mysql.sock
 
 production:
@@ -34,6 +34,6 @@ production:
   reconnect: false
   database: arvore_production
   pool: 5
-  username: root
-  password:
+  username: rails_db
+  password: $#lia38!
   socket: /var/lib/mysql/mysql.sock
