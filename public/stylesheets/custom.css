@@ -61,6 +61,16 @@ nav ul li a:hover{
     text-decoration: underline;
 }
 
+/* users list */
+
+ul.users {
+    margin-top: 1em;
+}
+
+.users li {
+    list-style: none;
+}
+
 /* sign up button */
 a.signup_button {
     margin-left: auto;
